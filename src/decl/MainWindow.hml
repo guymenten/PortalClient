@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JWindow
+        xmlns="org.aswing"
+        xmlns:haxe="http://haxe.org/"
+        width="Std.int(Lib.current.stage.stageWidth)"
+        height="Std.int(Lib.current.stage.stageHeight)">
+    <haxe:Implements><![CDATA[jive.DataContextControllable<viewmodel.MainViewModel>]]></haxe:Implements>
+    <content>
+        <JPanel>
+            <layout>
+                <CenterLayout/>
+            </layout>
+            <JButton command="{Binding buttonCommand}" text="Hello world!"/>
+        </JPanel>
+    </content>
+</JWindow>
