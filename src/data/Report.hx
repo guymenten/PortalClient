@@ -26,7 +26,7 @@ class Report extends EventDispatcher
 		lastReportData = Model.dbReports.getLastReportData();
 
 		Main.root1.addEventListener(PanelEvents.EVT_RA_ALARM_ON, OnRAAlarm);
-		Main.model.
+		//Main.model.
 		Main.root1.addEventListener(PanelEvents.EVT_CREATE_REPORT, onCreateReport);
 	}
 
