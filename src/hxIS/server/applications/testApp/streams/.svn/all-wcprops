@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/server/applications/testApp/streams
+END
+myOtherVideo.flv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13/trunk/server/applications/testApp/streams/myOtherVideo.flv
+END
+my_movie.flv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/13/trunk/server/applications/testApp/streams/my_movie.flv
+END

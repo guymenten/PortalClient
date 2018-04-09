@@ -13,7 +13,6 @@ import flash.events.Event;
 import flash.events.MouseEvent;
 import hxtc.crypto.TEA;
 import haxe.crypto.Md5;
-import Session;
 
 /**
  * ...

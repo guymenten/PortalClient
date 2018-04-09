@@ -30,7 +30,6 @@
   <haxelib>
     <library name="air3" />
     <library name="format" />
-    <library name="gmtec" />
     <library name="jive" />
     <library name="actuate" />
     <library name="tweenx" />

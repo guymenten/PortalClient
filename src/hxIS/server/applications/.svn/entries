@@ -1,0 +1,41 @@
+9
+
+dir
+13
+https://hxis.googlecode.com/svn/trunk/server/applications
+https://hxis.googlecode.com/svn
+
+
+
+2009-10-18T22:11:59.872835Z
+13
+adnez7
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+20b0f9c8-ad02-11de-8979-45ee1cee29d0
+
+
+
+
+
+
+0
+
+testApp
+dir
+
+myOtherApp
+dir
+

@@ -1,0 +1,7 @@
+NsExample
+-main NsExample 
+-swf9 nsExample.swf 
+-swf-header 800:600:30:ffffff 
+-swf-lib library.swf 
+-swf-version 9
+-debug

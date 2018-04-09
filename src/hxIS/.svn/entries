@@ -1,0 +1,71 @@
+9
+
+dir
+1
+https://hxis.googlecode.com/svn/trunk
+https://hxis.googlecode.com/svn
+
+
+
+2009-09-29T14:12:31.999298Z
+1
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+20b0f9c8-ad02-11de-8979-45ee1cee29d0
+
+hxvid
+dir
+
+services
+dir
+
+build.hxml
+file
+10
+
+
+
+2009-09-29T15:32:24.746176Z
+2ef149f85e2bc376df58ce5a4b6dd391
+2009-09-29T15:36:20.230447Z
+10
+adnez7
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68
+
+server
+dir
+

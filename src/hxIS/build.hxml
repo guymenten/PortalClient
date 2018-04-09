@@ -1,0 +1,4 @@
+-neko ./server/server.n
+-cp source
+-main hxvid.Server
+-lib format

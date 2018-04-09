@@ -4,7 +4,6 @@ import db.DBTranslations;
 import events.PanelEvents;
 import flash.events.Event;
 import flash.events.EventDispatcher;
-import Session;
 
 /**
  * ...

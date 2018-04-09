@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/13/trunk/server
+END
+logFile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/13/trunk/server/logFile.txt
+END
+server.n
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/13/trunk/server/server.n
+END
+startServer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/13/trunk/server/startServer.bat
+END
